@@ -9,6 +9,7 @@ The goal is to get a score of 10.
 
 ## Implementation
 *To get 15 points on this assignment
+
 a ship that is controlled by the player - O
 
 that can fire a weapon - O
