@@ -21,7 +21,7 @@ I implemented a variety of enemies - O
 - enemy2: stays in place but shoots bullets in random directions. (Took the most time.)
 - boss: has a lot of health and moves in a straight line.
 - asteroid: made it split into a random number of small asteroids when hit.
-- small asteroid: health 1 asteroid
+- small asteroid: health 1 asteroid.
 I gave the game a background image. - O
 I put the background music. - O
 -I made a script that the music doesn't cut off when the scenes change.
